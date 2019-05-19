@@ -1,0 +1,1 @@
+This is the first project in the javascript curriculum for The Project Odin. The project requires to build a game of rock, paper and scissors.
